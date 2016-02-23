@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./johanniswycliftr1402wycl/johanniswycliftr1402wycl_0296.png"; bbox 0 0 2007 3364; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 796 2297 1248 2329">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 796 2297 1248 2329">
+     <span class='ocr_line' id='line_1_1' title="bbox 796 2297 1248 2329; baseline -0.013 -2"><span class='ocrx_word' id='word_1_1' title='bbox 796 2300 903 2329; x_wconf 69' lang='lat' dir='ltr'>norm</span> <span class='ocrx_word' id='word_1_2' title='bbox 921 2300 1023 2326; x_wconf 72' lang='lat' dir='ltr'>numu</span> <span class='ocrx_word' id='word_1_3' title='bbox 1043 2299 1100 2325; x_wconf 66' lang='lat' dir='ltr'>ont.</span> <span class='ocrx_word' id='word_1_4' title='bbox 1119 2305 1160 2324; x_wconf 81' lang='lat' dir='ltr'>no.</span> <span class='ocrx_word' id='word_1_5' title='bbox 1181 2297 1248 2322; x_wconf 67' lang='lat'>1137</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 392 391 1594 2391">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 392 391 1594 2391">
+     <span class='ocr_line' id='line_1_2' title="bbox 392 391 1594 2391"><span class='ocrx_word' id='word_1_6' title='bbox 392 391 1594 2391; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
